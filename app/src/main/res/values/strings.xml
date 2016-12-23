@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ISH</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="news_fragment">新闻</string>
+    <string name="image_fragment">图片</string>
+    <string name="video_fragment">视频</string>
+    <string name="me_fragment">我</string>
+    <string name="load_more">加载中</string>
+    <string name="mei_zi">妹子</string>
+    <string name="feng_jing">风景</string>
+    <string name="video">视频</string>
+    <string name="live">直播</string>
+
+    <string name="picture_has_save_to">图片已保存至 %s 文件夹</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_share">分享</string>
+    <string name="action_save">保存</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">播放</string>
+</resources>
